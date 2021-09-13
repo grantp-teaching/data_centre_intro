@@ -4,3 +4,6 @@ auto/
 *.log
 *.out
 *.fdb_latexmk
+*.nav
+*.snm
+*.toc
